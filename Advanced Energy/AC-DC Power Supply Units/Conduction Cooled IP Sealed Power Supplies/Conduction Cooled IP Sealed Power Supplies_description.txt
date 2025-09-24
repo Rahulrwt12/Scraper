@@ -1,0 +1,3 @@
+Conduction Cooled IP Sealed Power Supplies
+
+Ideal for demanding sealed box and outdoor applications, Advanced Energy's LCC series of fanless, fully-enclosed AC-DC power supplies provides IP64 protection against the ingress of dust and water, wide operating temperature range and extensive protection against fault conditions.The LCC series can be used for indoor applications including medical equipment. It is also applicable for high uptime and difficult-to-service equipment where fan failures can be costly. A universal AC input enables them to be used almost anywhere in the world. Customers have a choice of two mounting and cooling orientations: conduction or convection.

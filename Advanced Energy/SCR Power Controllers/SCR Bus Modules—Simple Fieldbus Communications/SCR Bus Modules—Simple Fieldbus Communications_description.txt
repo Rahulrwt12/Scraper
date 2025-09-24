@@ -1,0 +1,3 @@
+SCR Bus Modules—Simple Fieldbus Communications
+
+Fieldbus communication networking is a simple and flexible solution for process automation. The Advanced™Bus Module allows easy integration of Impac pyrometers with Thyro-XD SCRs.

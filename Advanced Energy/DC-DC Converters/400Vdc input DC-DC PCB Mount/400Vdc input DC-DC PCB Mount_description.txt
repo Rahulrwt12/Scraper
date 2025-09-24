@@ -1,0 +1,3 @@
+400Vdc in BMP
+
+Advanced Energy’s high voltage input DC-DC converter modules are designed for application-specific power supplies and specialist markets including avionics. They operate over a wide input voltage range of 250 to 420 Vdc. Depending on the product series, single output voltage versions are available from 1.8 up to 48 V. Our high voltage input DC-DC converter modules are intended for use with power factor correction (PFC) modules. Available in quarter-, half- and full-brick formats with power output ratings of 65, 250 and 600 W, these modules provide a cost-effective and efficient means of implementing high-voltage, low-loss DC power distribution systems and application-specific low profile power supplies.

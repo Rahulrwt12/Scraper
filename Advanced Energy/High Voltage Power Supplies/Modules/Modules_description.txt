@@ -1,0 +1,3 @@
+Modules
+
+Advanced Energy boasts high voltage modules for various applications with various voltages and currents. Reversible Fast Switching modules provide fast and reliable switching for applications such as pulsed laser diodes, electro-optic modulators, and acousto-optic modulators. The Ultra Low Ripple modules are designed for applications that require low noise and ripple such as laser diodes, scientific instrumentation, and medical devices. Our X-ray modules are designed for applications that require high voltage and current, such as X-ray generators and particle accelerators. These modules feature voltage and current flexibility, as well as advanced technology to provide precise and stable power delivery for reliable operation and accurate results.

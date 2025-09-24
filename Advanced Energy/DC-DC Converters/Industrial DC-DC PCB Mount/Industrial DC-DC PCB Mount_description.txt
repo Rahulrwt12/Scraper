@@ -1,0 +1,3 @@
+Industrial DC-DC PCB Mount
+
+AE's extensive, rapidly growing range of small isolated DC-DC converters suits low power industrial applications in areas including automation, instrumentation, test and measurement, and telecommunications.Our portfolio of industrial DC-DC converters for low power, low voltage applications comprises four families, all suitable for ruggedized applications in harsh environments. These high efficiency, high power density designs are fully encapsulated and housed in metal cases for robustness and accommodate a wide operating temperature range. Spanning power ratings from 3 to 50 W, with single and dual outputs from ±15 to 24 V, the converters feature wide input voltage ranges for maximum design-in flexibility.

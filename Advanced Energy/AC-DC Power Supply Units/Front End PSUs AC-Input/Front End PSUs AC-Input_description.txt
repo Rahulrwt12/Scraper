@@ -1,0 +1,3 @@
+Front End PSUs AC-Input
+
+Discover the pinnacle of power supply technology with our AC-DC front-end power supplies. Leading the pack is our CRPS family, which not only carries a Platinum Level efficiency certification but also reaches an impressive 94% peak in power conversion and exhibits low harmonic distortion. Adding to our diverse range, the DS, OCP-compliant, UFE, and HFE families distinguish themselves with a significantly compact form factor compared to similarly rated earlier-generation power supplies, thus optimizing valuable system space. Characterized by their high efficiency, high accuracy, hot-swappability, and digital control, our power supplies stand as the optimal choice for fault-tolerant and redundant applications.

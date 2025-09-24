@@ -1,0 +1,3 @@
+Front End PSUs DC-Input
+
+Ensure that the form, fit, and function of your power supplies meet the needs of your distributed power systems with Advanced Energy’s DC-DC front-end power supplies. Our extensive range of digitally controlled DC-DC power supplies is designed specifically for systems utilizing Distributed Power Architecture (DPA) and Intermediate Bus Architecture (IBA). The flexibility of the power supply programming enables you to implement sophisticated power management schemes with minimal additional components.

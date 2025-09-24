@@ -1,0 +1,3 @@
+DIN Rail PSUs
+
+Advanced Energy's range of DIN rail mounting AC-DC power supplies consists of eight models. Single phase in 120 W, 240 W, 480 W and 960 W with their complement in three-phase input to cover all possible input ranges. All models designed for an industrial environment with no derating up to 60°C. The single-phase units are also capable of operating from a DC input in the range 90 to 375 VDC, and the three-phase units are also capable of operating from a 450 to 760 VDC input.
