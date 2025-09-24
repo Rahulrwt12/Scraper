@@ -32,8 +32,8 @@ wheels/
 .vscode/
 *.swp
 *.swo
-.DS_Store
+.DS_Store/
 
 # Streamlit
 .streamlit/
-.DS_Store
+DS_Store
