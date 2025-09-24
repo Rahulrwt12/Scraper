@@ -36,3 +36,4 @@ wheels/
 
 # Streamlit
 .streamlit/
+.DS_Store
